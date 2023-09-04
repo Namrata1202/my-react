@@ -1,0 +1,18 @@
+.boxx-img{
+    height: 300px;
+    width: 98%;
+    background-repeat: no-repeat;
+      margin-top: 1rem;
+      margin-bottom: 1ram;
+    background-size: cover;
+}
+.boxx h3{
+    color: blue;
+}
+.boxx-content{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.boxx-content p{
+    color:  #007185;
+}
